@@ -3,8 +3,8 @@
 **请求方式：** post  
 **请求头(headers)：**   
 ```
-id:xxxx
-key:xxxx
+id:加微信获取
+key:加微信获取
 ```
 **请求参数(body)：**  
 ```
@@ -24,3 +24,5 @@ unikeys:需要解析的unicode字符数组，例如 ["&#x0768e;","&#x25E8F;"]
 # postman示例
 ![image](https://github.com/keyiis/spider/blob/main/postman-headers.png)  
 ![image](https://github.com/keyiis/spider/blob/main/postman.png)
+
+# 本人微信号 keyiis2017
