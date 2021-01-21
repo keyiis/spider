@@ -20,5 +20,6 @@ text:需要解析的包含unicode的字符串，例如 "销量:&#x0768e;月售&#
 ```
 # postman示例
 ![image](https://github.com/keyiis/spider/blob/main/postman-headers.png)  
+![image](https://github.com/keyiis/spider/blob/main/postman.png)
 
 # 本人微信号 keyiis2017
