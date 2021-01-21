@@ -3,8 +3,8 @@
 **请求方式：** post  
 **请求头(headers)：**   
 ```
-id:加微信获取
-key:加微信获取
+id:xxxx
+key:xxxx
 ```
 **请求参数(body)：**  
 ```
